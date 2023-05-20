@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning: **MERN Stack and Tailwind**
 
-- 💬 Ask me about **HTML, CSS, and JS**
-
 - 📫 How to reach me: **jafarris.exe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
