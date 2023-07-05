@@ -12,6 +12,7 @@
 **Projects** I'm proud of: 
 <ul>
 <li><a href="https://github.com/Cat-Scratch-Feev/Catterday" target="_blank"> Catterday 🐈</a></li>
+<li><a href="#" target="_blank"> Somniary Dream Journal ☁️</a></li>
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
