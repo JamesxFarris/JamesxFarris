@@ -11,8 +11,9 @@
 
 **Projects** I'm proud of: 
 <ul>
-<li><a href="https://github.com/Cat-Scratch-Feev/Catterday" target="_blank"> Catterday 🐈</a></li>
-<li><a href="https://pacific-tor-76597-f8e2bab9d69c.herokuapp.com/" target="_blank"> Somniary Dream Journal ☁️</a></li>
+<li><p>Catterday 🐈 <a href="https://github.com/Cat-Scratch-Feev/Catterday" target="_blank" style="color:#3e63a1;">Repo</a> | <a href="https://cat-scratch-feev.github.io/Catterday/" target="_blank" style="color:#5989d1;">Live Site</a></p></li>
+<li><p>Somniary Dream Journal ☁️ <a href="https://github.com/Cat-Scratch-Feev/somniary" target="_blank" style="color:#3e63a1;">Repo</a> | <a href="https://somniary-00225b8202c3.herokuapp.com/landing" target="_blank" style="color:#5989d1;">Live Site</a></p></li>
+
 </ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
