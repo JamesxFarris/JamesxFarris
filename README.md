@@ -5,7 +5,7 @@
 <h3 align="center">Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
 
-- 🌱 I’m currently learning: **MERN Stack and Tailwind**
+- 🌱 I’m currently learning: **C++**
 
 - 📫 How to reach me: **jafarris.exe@gmail.com**
 
