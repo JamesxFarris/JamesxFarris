@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" alt="Banner image" width="1200px" height="400px"/>
 </p>
 <h1 align="center">Hi 👋, I'm James Farris</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
 
 - 🌱 I’m currently learning: **C++**
