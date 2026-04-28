@@ -4,9 +4,19 @@
 
 <h1 align="center">Hi 👋, I'm James Farris</h1>
 <h3 align="center">Full Stack Software Developer</h3>
+ <table>
+  <tr>
+  <td width="60%">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
-<br clear="both" />
+  - 🌱 Currently learning: **Java**
+  - 📫 Reach me at: **jafarris.exe@gmail.com**
+
+  </td>
+  <td width="40%" align="right">
+  <img alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" />
+  </td>
+  </tr>
+  </table>
 
 - 🌱 Currently learning: **Java**
 - 📫 Reach me at: **jafarris.exe@gmail.com**
@@ -24,6 +34,7 @@
 | **Feev.io Quizzes** 🤔 | Real-time multiplayer trivia game built with React and Node.js. | [Repo](https://github.com/Cat-Scratch-Feev/trivia-feev) · [Live](https://feevio-9028928ec5ce.herokuapp.com/) |
 | **Catterday** 🐈 | Social media-style cat showcase app with theme customization. | [Repo](https://github.com/Cat-Scratch-Feev/Catterday) · [Live](https://cat-scratch-feev.github.io/Catterday/) |
 
+<br clear="both" />
 ---
 
 ### Connect with me
