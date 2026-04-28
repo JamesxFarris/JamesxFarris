@@ -6,6 +6,7 @@
 <h3 align="center">Full Stack Software Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif"/>
+<br clear="both" />
 
 - 🌱 Currently learning: **Java**
 - 📫 Reach me at: **jafarris.exe@gmail.com**
