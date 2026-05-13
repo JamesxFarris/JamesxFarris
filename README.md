@@ -71,9 +71,3 @@
     <td><a href="https://docs.anthropic.com/en/docs/claude-code/overview" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/anthropic/191919" alt="Claude Code" width="40" height="40"/></a></td>
   </tr>
 </table>
-
----
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesxfarris&show_icons=true&theme=tokyonight&title_color=b905fa&text_color=05fab9&bg_color=000000&locale=en&layout=compact" alt="jamesxfarris" />
-</p>
