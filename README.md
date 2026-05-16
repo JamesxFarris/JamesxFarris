@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm James Farris</h1>
 <h3 align="center">Full Stack Software Developer</h3>
+<a href="https://www.jamesfarris.dev/" target="_blank">My Portfolio</a>
  <table>
   <tr>
   <td width="60%">
