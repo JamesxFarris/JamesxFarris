@@ -36,7 +36,7 @@
 | **InkLink Tattoo Finder** | Full stack tattoo artist and shop directory with 14,000+ verified listings. Search by city, style, and read reviews. | [Repo](https://github.com/JamesxFarris/InkLinkTattooFinder) · [Live](https://www.inklinktattoofinder.com/) |
 | **Holiday Sands North** | Frontend website for an oceanfront hotel resort on the Myrtle Beach Boardwalk. | [Repo](https://github.com/JamesxFarris/HSN) · [Live](https://www.holidaysandsnorth.com/) |
 | **Shimi** | Full stack prediction market betting web application built with the MERN stack. | [Repo](https://github.com/JamesxFarris/Shimi) · [Live](https://shimi.onrender.com/) |
-| **Somniary** | A dream journal app for logging and tracking dreams over time. | [Repo](https://github.com/JamesxFarris/somniary) |
+| **Somniary** | A dream journal app for logging and tracking dreams over time. | [Repo](https://github.com/JamesxFarris/somniary)  · [Live](https://sparkling-luck-production-37ef.up.railway.app/) |
 | **Feev.io Quizzes** | Real-time multiplayer trivia game built with React and Node.js. | [Repo](https://github.com/Cat-Scratch-Feev/trivia-feev) · [Live](https://feevio-9028928ec5ce.herokuapp.com/) |
 | **Catterday** | Social media-style cat showcase app with theme customization. | [Repo](https://github.com/Cat-Scratch-Feev/Catterday) · [Live](https://cat-scratch-feev.github.io/Catterday/) |
 
