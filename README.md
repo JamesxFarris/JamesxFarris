@@ -4,7 +4,12 @@
 
 <h1 align="center">Hi 👋, I'm James Farris</h1>
 <h3 align="center">Full Stack Software Developer</h3>
-<a href="https://www.jamesfarris.dev/" target="_blank">My Portfolio</a>
+
+<p align="center">
+  <a href="https://www.jamesfarris.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-jamesfarris.dev-6E48AA?style=for-the-badge&logoColor=white&labelColor=2D1B69" alt="Portfolio" height="45"/>
+  </a>
+</p>
  <table>
   <tr>
   <td width="60%">
