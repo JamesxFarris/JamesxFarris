@@ -14,8 +14,8 @@
   <tr>
   <td width="60%">
 
-  - 🌱 Currently learning: **Java**
-  - 📫 Reach me at: **jafarris.exe@gmail.com**
+  - Currently learning: **Java**
+  - Reach me at: **jafarris.exe@gmail.com**
 
   </td>
   <td width="40%" align="right">
@@ -23,9 +23,6 @@
   </td>
   </tr>
   </table>
-
-- 🌱 Currently learning: **Java**
-- 📫 Reach me at: **jafarris.exe@gmail.com**
 
 ---
 
