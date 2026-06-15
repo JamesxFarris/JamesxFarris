@@ -14,7 +14,7 @@
   <tr>
   <td width="60%">
 
-  - Currently learning: **Java**
+  - Currently learning: **DSA** Taking a little project break
   - Reach me at: **jafarris.exe@gmail.com**
 
   </td>
